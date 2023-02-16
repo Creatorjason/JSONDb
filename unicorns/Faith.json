@@ -1,0 +1,12 @@
+{
+	"Name": "Faith",
+	"Age": 22,
+	"Contact": "08137450565",
+	"Company": "Helimentals",
+	"Address": {
+		"City": "Lagos",
+		"State": "Lagos",
+		"Country": "Nigeria",
+		"PinCode": 110235
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Peter",
+	"Age": 22,
+	"Contact": "08137450565",
+	"Company": "SocialCab",
+	"Address": {
+		"City": "Lagos",
+		"State": "Lagos",
+		"Country": "Nigeria",
+		"PinCode": 110235
+	}
+}

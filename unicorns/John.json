@@ -1,0 +1,12 @@
+{
+	"Name": "John",
+	"Age": 22,
+	"Contact": "08137450565",
+	"Company": "AiSmith",
+	"Address": {
+		"City": "Lagos",
+		"State": "Lagos",
+		"Country": "Nigeria",
+		"PinCode": 110235
+	}
+}

@@ -1,0 +1,12 @@
+{
+	"Name": "Emma",
+	"Age": 22,
+	"Contact": "08137450565",
+	"Company": "ByteFoods",
+	"Address": {
+		"City": "Lagos",
+		"State": "Lagos",
+		"Country": "Nigeria",
+		"PinCode": 110235
+	}
+}
